@@ -1,0 +1,1 @@
+print("This is the mandatory command for the first lab pof scripting")
